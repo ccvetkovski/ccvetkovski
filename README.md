@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Christian! 👋
+I'm an indie game developer learning how to make games with Unity. Here's a few things about me:
+
+- 💻 I'm currently working on my first commercial project
+- 🌱 I'm currently learning blender and Unity
+- 📫 Reach me at christian.cvet12@gmail.com
+- 🤔 I'm looking for help with blender and Unity on websites such as Unity Forums and stackoverflow
+
+Thanks for visiting! Have a great day.
 
 <!--
 **ccvetkovski/ccvetkovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
